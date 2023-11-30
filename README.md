@@ -1,9 +1,13 @@
 ### Hi guys, I'm Sebastião, but known as Loki
 
-- 🔭 Developer
-- 🌱 currently working with the C language
-- 😄 Legend: Loki
-- 😄 Bad: Graduated at 42 Pisciner
+<div style="display:flex; margin: 0px">
+  <img align="right" alt="Loki-image" height="" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <div>
+- 🔭 Developer <br>
+- 🌱 currently working with the C language<br>
+- 😄 Legend: Loki<br>
+- 😄 Bad: Graduated at 42 Pisciner<br>
+</div>
 
 <h2>Languages</h2>
 <div style="display: inline_block"><br>
@@ -20,6 +24,7 @@
   <img align="center" alt="Loki-java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
   <!--img align="center" alt="Loki-bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/ -->
   <img align="center" alt="Loki-kotlin" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+  <img align="center" alt="Loki-c++" height="32" width="42" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div>
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"></a>
 <div>
@@ -38,4 +43,8 @@
 <div>
   <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Disaster-Loki&show_icons=true&locale=en&layout=compact&theme=onedark" alt="disaster-loki" /></p>
   <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Disaster-Loki&show_icons=true&locale=en&theme=onedark" alt="disaster-loki" /></p>
+</div>
+
+<div>
+  
 </div>
