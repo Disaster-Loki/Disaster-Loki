@@ -3,7 +3,7 @@
 - 🔭 Developer
 - 🌱 currently working with the C language
 - 😄 Legend: Loki
--  Graduated at 42 Pisciner
+- 😄 Bad: Graduated at 42 Pisciner
 
 <h2>Languages</h2>
 <div style="display: inline_block"><br>
