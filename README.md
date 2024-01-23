@@ -24,7 +24,6 @@
   <!--img align="center" alt="Loki-bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/ -->
   <img align="center" alt="Loki-kotlin" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
   <img align="center" alt="Loki-c++" height="32" width="42" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" alt="Loki-fig" height="32" width="42" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
   <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"></a>
