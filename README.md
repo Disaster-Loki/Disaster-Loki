@@ -9,7 +9,7 @@
 - 🖥️ Bad: Graduated at 42 Pisciner<br>
 </div>
 <h2>Languages & Tools</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline"><br>
   <img align="center" alt="Loki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Loki-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!--<img align="center" alt="Loki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
