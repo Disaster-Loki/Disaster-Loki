@@ -40,15 +40,16 @@
   <a href="https://www.linkedin.com/in/sebastiaodecarvalho-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   <br>
+  <!--
  <h2>Systems</h2>
 <div> 
   <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" target="_blank">
   <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" target="_blank">
-</div>
+</div>--->
 <br>
 <div>
-  <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Disaster-Loki&show_icons=true&locale=en&layout=compact&theme=dracula" alt="disaster-loki" /></p>
-  <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Disaster-Loki&show_icons=true&locale=en&theme=dracula" alt="disaster-loki" /></p>
+  <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastiao-De-Carvalho&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
+  <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastiao-De-Carvalho&show_icons=true&locale=en&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
 </div>
 
 <div>
