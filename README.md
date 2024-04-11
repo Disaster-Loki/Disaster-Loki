@@ -1,7 +1,7 @@
 ### Hi guys, I'm Sebastião, but known as Loki
 
 <div style="display:flex; margin: 0px">
-  <img align="right" alt="Loki-image" height="" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <img align="right" alt="Loki-image" height="1000" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div>
 - 🔭 Developer <br>
 - 🌱 currently working with the C language<br>
@@ -9,7 +9,7 @@
 - 🖥️ Bad: Graduated at 42 Pisciner<br>
 </div>
 <h2>Languages & Tools</h2>
-<div style="display: inline"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Loki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Loki-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!--<img align="center" alt="Loki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
