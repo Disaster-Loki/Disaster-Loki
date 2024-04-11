@@ -1,7 +1,7 @@
 ### Hi guys, I'm Sebastião, but known as Loki
 
 <div style="display:flex; margin: 0px">
-  <img align="right" alt="Loki-image" height="1000" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <img align="right" alt="Loki-image" height="" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div>
 - 🔭 Developer <br>
 - 🌱 currently working with the C language<br>
