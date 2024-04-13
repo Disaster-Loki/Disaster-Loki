@@ -48,8 +48,8 @@
 </div>--->
 <br>
 <div>
-  <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Disaste-Loki&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
-  <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Disaste-Loki&show_icons=true&locale=en&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
+  <p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Disaster-Loki&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
+  <p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Disaster-Loki&show_icons=true&locale=en&theme=dracula" alt="Sebastiao-De-Carvalho" /></p>
 </div>
 
 <div>
