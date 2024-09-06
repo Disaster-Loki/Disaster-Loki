@@ -3,8 +3,8 @@
 </h1>
 
 <div style="display:flex; margin: 0px; width: 100%">
-  <img align="right" alt="Loki-image" height="auto" width="30" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-  <div style="line-height: 2.5;">
+  <img align="right" alt="Loki-image" height="auto" width="380" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <div style="line-height: 3.0;">
     <br><br>
     - 😄 Legend: Loki<br>
     - 🔭 Freelance Developer<br>
@@ -15,7 +15,7 @@
     - 👊 Demonstrating who the real boss is
   </div>
 </div>
-<br><br><br>
+<br><br><br><br>
 
 ### Languages & Tools
 
