@@ -3,7 +3,7 @@
 </h1>
 
 <div style="display:flex; margin: 0px">
-  <img align="right" alt="Loki-image" height="" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <img align="right" alt="Loki-image" height="auto" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div>
   - 😄 Legend: Loki<br>
   - 🔭 Freelance Developer<br>
@@ -13,7 +13,7 @@
   - 💪 Always seeking new challenges<br>
   - 👊 Demonstrating who the real boss is
 </div>
-
+<br><br>
 
 ### Languages & Tools
 
