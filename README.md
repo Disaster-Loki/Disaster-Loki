@@ -6,7 +6,6 @@
   <img align="right" alt="Loki-image" height="auto" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div style="line-height: 3.0; fond-size: 25px;">
     <br><br>
-    <h4>
     - 😄 Legend: Loki<br>
     - 🔭 Freelance Developer<br>
     - 🖥️ Graduated from 42 Pisciner<br>
@@ -14,7 +13,6 @@
     - 🚀 Visionary: Aspiring to start my own company<br>
     - 💪 Always seeking new challenges<br>
     - 👊 Demonstrating who the real boss is
-    </h4>
   </div>
 </div>
 <br><br><br><br>
