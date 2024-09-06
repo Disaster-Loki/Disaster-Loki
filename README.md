@@ -2,24 +2,17 @@
   Hi guys, I'm <span style="color: dodgerblue; font-weight: bold;">SEBASTIÃO</span>, but known as <span style="background: linear-gradient(to right, darkred, red); -webkit-background-clip: text; color: transparent; font-weight: bold;">LOKI</span>
 </h1>
 
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 0; vertical-align: top;">
-      - 😄 Legend: Loki<br>
-      - 🔭 Freelance Developer<br>
-      - 🖥️ Graduated from 42 Pisciner<br>
-      - 🌱 Currently working with the C & Python languages<br>
-      - 🚀 Visionary: Aspiring to start my own company<br>
-      - 💪 Always seeking new challenges<br>
-      - 👊 Demonstrating who the real boss is
-    </td>
-    <td style="border: none; padding: 0; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 100%; height: auto;"/>
-    </td>
-  </tr>
-</table>
-
+<div style="display:flex; margin: 0px">
+  <img align="right" alt="Loki-image" height="" width="500" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <div>
+  - 😄 Legend: Loki<br>
+  - 🔭 Freelance Developer<br>
+  - 🖥️ Graduated from 42 Pisciner<br>
+  - 🌱 Currently working with the C & Python languages<br>
+  - 🚀 Visionary: Aspiring to start my own company<br>
+  - 💪 Always seeking new challenges<br>
+  - 👊 Demonstrating who the real boss is
+</div>
 
 
 ### Languages & Tools
