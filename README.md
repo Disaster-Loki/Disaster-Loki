@@ -2,7 +2,7 @@
   Hi guys, I'm <span style="color: dodgerblue; font-weight: bold;">SEBASTIÃO</span>, but known as <span style="background: linear-gradient(to right, darkred, red); -webkit-background-clip: text; color: transparent; font-weight: bold;">LOKI</span>
 </h1>
 
-<div style="display:flex; margin: 0px">
+<div style="display:flex; margin: 0px; width: 100%">
   <img align="right" alt="Loki-image" height="auto" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div>
   - 😄 Legend: Loki<br>
