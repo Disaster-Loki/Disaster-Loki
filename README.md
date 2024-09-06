@@ -4,8 +4,8 @@
 
 <div style="display:flex; margin: 0px; width: 100%">
   <img align="right" alt="Loki-image" height="auto" width="380" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-  <div style="line-height: 3.0;">
-    <br><br>
+  <div style="line-height: 3.0; fond-size: 20px">
+    <br>
     - 😄 Legend: Loki<br>
     - 🔭 Freelance Developer<br>
     - 🖥️ Graduated from 42 Pisciner<br>
