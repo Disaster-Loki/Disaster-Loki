@@ -4,14 +4,15 @@
 
 <div style="display:flex; margin: 0px; width: 100%">
   <img align="right" alt="Loki-image" height="auto" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-  <div>
-  - 😄 Legend: Loki<br>
-  - 🔭 Freelance Developer<br>
-  - 🖥️ Graduated from 42 Pisciner<br>
-  - 🌱 Currently working with the C & Python languages<br>
-  - 🚀 Visionary: Aspiring to start my own company<br>
-  - 💪 Always seeking new challenges<br>
-  - 👊 Demonstrating who the real boss is
+  <div style="line-height: 1.5;">
+    - 😄 Legend: Loki<br>
+    - 🔭 Freelance Developer<br>
+    - 🖥️ Graduated from 42 Pisciner<br>
+    - 🌱 Currently working with the C & Python languages<br>
+    - 🚀 Visionary: Aspiring to start my own company<br>
+    - 💪 Always seeking new challenges<br>
+    - 👊 Demonstrating who the real boss is
+  </div>
 </div>
 <br><br>
 
@@ -19,7 +20,7 @@
 
 <hr style="background: rgb(100, 100, 150, 0.4); height: 2px; border: none;">
 
-<div align="center">
+<div style="margin-top: 20px; text-align: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,ts,java,python,git,github,bash,vscode,figma,markdown,mysql,php,nodejs,react,laravel,bootstrap,postman,sublime" />
   </a>
