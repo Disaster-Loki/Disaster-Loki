@@ -2,7 +2,7 @@
   Hi guys, I'm <span style="color: dodgerblue; font-weight: bold;">SEBASTIÃO</span>, but known as <span style="background: linear-gradient(to right, darkred, red); -webkit-background-clip: text; color: transparent; font-weight: bold;">LOKI</span>
 </h1>
 
-<table style="border-collapse: collapse; width: 100%; text-align: left;">
+<table style="border-collapse: collapse; width: 100%; text-align: left; border: none">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       - 😄 Legend: Loki <br>
