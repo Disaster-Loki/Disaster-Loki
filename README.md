@@ -2,20 +2,22 @@
   Hi guys, I'm <span style="color: dodgerblue; font-weight: bold;">SEBASTIÃO</span>, but known as <span style="background: linear-gradient(to right, darkred, red); -webkit-background-clip: text; color: transparent; font-weight: bold;">LOKI</span>
 </h1>
 
-<hr style="background: rgb(100, 100, 150, 0.8); height: 2px; border: none;">
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="max-width: 50%; text-align: left;">
-    - 😄 Legend: Loki <br>
-    - 🔭 Freelance Developer <br>
-    - 🖥️ Graduated from 42 Pisciner <br>
-    - 🌱 Currently working with the C & Python languages <br>
-    - 🚀 Visionary: Aspiring to start my own company <br>
-    - 💪 Always seeking new challenges <br>
-    - 👊 Demonstrating who the real boss is
-  </div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 600px; height: auto; margin-left: 20px;"/>
-</div>
+<table style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
+      - 😄 Legend: Loki <br>
+      - 🔭 Freelance Developer <br>
+      - 🖥️ Graduated from 42 Pisciner <br>
+      - 🌱 Currently working with the C & Python languages <br>
+      - 🚀 Visionary: Aspiring to start my own company <br>
+      - 💪 Always seeking new challenges <br>
+      - 👊 Demonstrating who the real boss is
+    </td>
+    <td style="border: none;">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 600px; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 ### Languages & Tools
 
