@@ -3,9 +3,9 @@
 </h1>
 
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0; vertical-align: top;">
       - 😄 Legend: Loki<br>
       - 🔭 Freelance Developer<br>
       - 🖥️ Graduated from 42 Pisciner<br>
@@ -14,11 +14,12 @@
       - 💪 Always seeking new challenges<br>
       - 👊 Demonstrating who the real boss is
     </td>
-    <td>
+    <td style="border: none; padding: 0; vertical-align: top;">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 100%; height: auto;"/>
     </td>
   </tr>
 </table>
+
 
 
 ### Languages & Tools
