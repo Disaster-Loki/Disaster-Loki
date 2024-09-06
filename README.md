@@ -3,15 +3,15 @@
 </h1>
 
 <div style="display:flex; margin: 0px; width: 100%">
-  <img align="right" alt="Loki-image" height="auto" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+  <img align="right" alt="Loki-image" height="auto" width="370" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
   <div style="line-height: 1.5;">
     <br><br>
-    - 😄 Legend: Loki<br>
-    - 🔭 Freelance Developer<br>
-    - 🖥️ Graduated from 42 Pisciner<br>
-    - 🌱 Currently working with the C & Python languages<br>
-    - 🚀 Visionary: Aspiring to start my own company<br>
-    - 💪 Always seeking new challenges<br>
+    - 😄 Legend: Loki<br><br>
+    - 🔭 Freelance Developer<br><br>
+    - 🖥️ Graduated from 42 Pisciner<br><br>
+    - 🌱 Currently working with the C & Python languages<br><br>
+    - 🚀 Visionary: Aspiring to start my own company<br><br>
+    - 💪 Always seeking new challenges<br><br>
     - 👊 Demonstrating who the real boss is
   </div>
 </div>
