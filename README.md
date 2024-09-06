@@ -3,8 +3,22 @@
 </h1>
 
 
-| - 😄 Legend: Loki <br>- 🔭 Freelance Developer <br>- 🖥️ Graduated from 42 Pisciner <br>- 🌱 Currently working with the C & Python languages <br>- 🚀 Visionary: Aspiring to start my own company <br>- 💪 Always seeking new challenges <br>- 👊 Demonstrating who the real boss is | ![Loki-image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) |
-
+<table>
+  <tr>
+    <td>
+      - 😄 Legend: Loki<br>
+      - 🔭 Freelance Developer<br>
+      - 🖥️ Graduated from 42 Pisciner<br>
+      - 🌱 Currently working with the C & Python languages<br>
+      - 🚀 Visionary: Aspiring to start my own company<br>
+      - 💪 Always seeking new challenges<br>
+      - 👊 Demonstrating who the real boss is
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 100%; height: auto;"/>
+    </td>
+  </tr>
+</table>
 
 
 ### Languages & Tools
