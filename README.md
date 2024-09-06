@@ -2,20 +2,9 @@
   Hi guys, I'm <span style="color: dodgerblue; font-weight: bold;">SEBASTIÃO</span>, but known as <span style="background: linear-gradient(to right, darkred, red); -webkit-background-clip: text; color: transparent; font-weight: bold;">LOKI</span>
 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; max-width: 50%; text-align: left; padding-right: 20px;">
-    - 😄 Legend: Loki <br>
-    - 🔭 Freelance Developer <br>
-    - 🖥️ Graduated from 42 Pisciner <br>
-    - 🌱 Currently working with the C & Python languages <br>
-    - 🚀 Visionary: Aspiring to start my own company <br>
-    - 💪 Always seeking new challenges <br>
-    - 👊 Demonstrating who the real boss is
-  </div>
-  <div style="flex: 1; max-width: 50%; text-align: right;">
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Loki-image" style="max-width: 100%; height: auto;"/>
-  </div>
-</div>
+
+| - 😄 Legend: Loki <br>- 🔭 Freelance Developer <br>- 🖥️ Graduated from 42 Pisciner <br>- 🌱 Currently working with the C & Python languages <br>- 🚀 Visionary: Aspiring to start my own company <br>- 💪 Always seeking new challenges <br>- 👊 Demonstrating who the real boss is | ![Loki-image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) |
+
 
 
 ### Languages & Tools
@@ -28,7 +17,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 ### Social Media & Channels
 
