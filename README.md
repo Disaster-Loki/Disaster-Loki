@@ -8,7 +8,7 @@
     <br><br>
     - 😄 Legend: Loki<br>
     - 🔭 Freelance Developer<br>
-    - 🖥️ Graduated from 42 Pisciner<br>
+    - 🖥️ Cadet from 42 Luanda<br>
     - 🌱 Currently working with the C & Python languages<br>
     - 🚀 Visionary: Aspiring to start my own company<br>
     - 💪 Always seeking new challenges<br>
